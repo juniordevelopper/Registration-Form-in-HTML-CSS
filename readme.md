@@ -11,7 +11,7 @@ This project is a clean, glassmorphic **Registration Form** designed with a focu
 
 The icons are sourced from [Boxicons](https://boxicons.com/) and integrated as inline SVG code for maximum portability.
 
-[📺 Watch Live Demo](https://github.io)
+[📺 Watch Live Demo](https://github.io](https://juniordevelopper.github.io/Registration-Form-in-HTML-CSS/)
 
 ---
 
